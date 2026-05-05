@@ -4,7 +4,7 @@ A curated collection of free, public resources to help Imperial EEE/EIE students
 
 ## 🚀 What's Inside?
 
-The resources in this repository are divided into key technical domains relevant to EEE/EIE career paths, blending rigorous theory with practical engineering tools.
+The resources in this repository are divided into key technical domains relevant to EEE/EIE career paths, blending rigorous theory with practical engineering tools and software interview prep.
 
 ### Analog Electronics & Circuit Design
 *   [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/) - A massive, free, and incredibly well-explained online textbook covering everything from DC analysis to semiconductors.
@@ -18,6 +18,7 @@ The resources in this repository are divided into key technical domains relevant
 
 ### Advanced Signal & Image Processing
 *   [Julius O. Smith III: DSP Books (Stanford CCRMA)](https://ccrma.stanford.edu/~jos/) - Completely free HTML versions of classic DSP textbooks covering filters, mathematics of the DFT, and audio applications.
+*   [The Scientist and Engineer's Guide to DSP (Book)](https://www.dspguide.com/pdfbook.htm) - A highly readable, foundational text on digital signal processing.
 *   [DSP Guru](https://dspguru.com/) - A fantastic repository of DSP FAQs, algorithms, and practical tricks that don't always make it into standard textbooks.
 *   [First Principles of Computer Vision (Columbia University)](https://fpcv.cs.columbia.edu/) - Prof. Shree Nayar's phenomenal, free video series covering the physics of imaging, early vision (filters/edges), and advanced image processing.
 
@@ -28,11 +29,25 @@ The resources in this repository are divided into key technical domains relevant
 ### Hardware, FPGA, Systems & Quantum
 *   [FPGA Concepts](https://fpgadesign.io/fpga-concepts/) & [Digital Logic](https://fpgadesign.io/digital-logic/) - Excellent breakdowns of core hardware concepts.
 *   [SystemVerilog Interview Questions](https://fpgadesign.io/sv-interview-questions/) & [Design Questions](https://fpgadesign.io/design-questions/)
+*   [Cocotb Documentation](https://docs.cocotb.org/en/stable/) - A coroutine-based cosimulation library for writing VHDL and SystemVerilog testbenches in Python (industry standard for modern verification).
 *   [Universal Verification Methodology (GitHub)](https://github.com/universal-verification-methodology)
 *   [Tiny Tapeout (Chip Design)](https://tinytapeout.com/) & [Workshop Guide](https://tinytapeout.com/guides/workshop/) - Real silicon chip design for beginners.
 *   [Linux From Scratch](https://www.linuxfromscratch.org/) & [First Kernel Patch Tutorial](https://kernelnewbies.org/FirstKernelPatch)
 *   [Quantum Country](https://quantum.country/) & [Riverlane Delta Kit (Quantum)](https://deltakit.riverlane.com/)
 *   [Formal Methods Organization](https://formal.org/)
+
+### Programming & Problem Solving
+*   **Languages:**
+    *   [LearnCpp.com](https://www.learncpp.com/) - The absolute best free tutorial for learning modern C++ from the ground up.
+    *   [Beej's Guide to C Programming](https://beej.us/guide/bgc/) - An excellent, highly readable guide to standard C programming (crucial for embedded).
+    *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - A great, practical introduction to Python.
+*   **Problem Sets & Technical Interview Prep:**
+    *   [LeetCode](https://leetcode.com/) - The industry standard for software engineering technical interview preparation (Data Structures & Algorithms).
+    *   [NeetCode](https://neetcode.io/) - A highly structured roadmap for tackling LeetCode problems efficiently.
+    *   [HackerRank](https://www.hackerrank.com/) - Great for foundational language practice; frequently used for company online assessments (OAs).
+    *   [Project Euler](https://projecteuler.net/) - Math-heavy programming challenges, perfect for testing algorithmic efficiency and mathematical problem-solving.
+    *   [HDLBits](https://hdlbits.01xz.net/) - Like LeetCode, but for Verilog! Practice writing hardware description code through interactive web-based testbenches.
+    *   [Exercism](https://exercism.org/) & [freeCodeCamp](https://www.freecodecamp.org/learn) - Excellent platforms for guided coding practice across dozens of languages.
 
 ### Practical Engineering Tools & Software
 *   [Phil's Lab (YouTube)](https://www.youtube.com/c/PhilS94) - The absolute best channel for practical PCB design, mixed-signal hardware, and STM32 firmware using KiCad.
@@ -48,16 +63,15 @@ The resources in this repository are divided into key technical domains relevant
 *   [GPU MODE Lecture 3 (CUDA for Python)](https://Inkd.in/e5hqbZRc) & [FlashAttention Paper](https://Inkd.in/eNP4Fsda)
 *   [GPU MODE Discord Community](https://Inkd.in/eDm7DNwi)
 
-### Computer Science, General Coding & Mathematics
-*   [The Scientist and Engineer's Guide to DSP (Book)](https://www.dspguide.com/pdfbook.htm)
-*   [CS50 on edX](https://www.edx.org/cs50) & [freeCodeCamp](https://www.freecodecamp.org/learn)
-*   [Exercism (Coding Practice)](https://exercism.org/) & [Stanford Engineering Everywhere](https://see.stanford.edu/)
+### Computer Science & Mathematics
+*   [CS50 on edX](https://www.edx.org/cs50) - Harvard's famous introduction to computer science.
+*   [Stanford Engineering Everywhere](https://see.stanford.edu/) - Free access to Stanford's foundational engineering and CS courses.
 *   [Data Science For Beginners (Microsoft GitHub)](https://github.com/microsoft/Data-Science-For-Beginners)
 *   [Isabelle Theorem Prover Documentation](https://isabelle.in.tum.de/documentation.html) & [Dafny Tutorial (Termination)](https://dafny.org/latest/OnlineTutorial/Termination)
 
 ## 🎯 Why Use This Repo?
 
-Imperial's curriculum provides a world-class theoretical foundation, but industry engineering roles often require hands-on experience with specialized, practical tools (like CUDA programming, modern FPGA design flows, KiCad PCB design, or deep learning systems). This list cuts through the noise to provide actionable, high-value content—ranging from interactive puzzles and GitHub repositories to full courses and textbooks—that you can tackle in your own time.
+Imperial's curriculum provides a world-class theoretical foundation, but industry engineering roles often require hands-on experience with specialized, practical tools (like Python/cocotb verification, CUDA programming, modern FPGA design flows, or KiCad PCB design). This list cuts through the noise to provide actionable, high-value content—ranging from interactive puzzles and GitHub repositories to full courses and textbooks—that you can tackle in your own time to crush your next interview.
 
 ## 🤝 How to Contribute
 
