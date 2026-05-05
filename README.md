@@ -1,8 +1,7 @@
-# The-RTL-Project
- 
-A curated collection of free, public resources to help Imperial EEE/EIE/CS students build practical technical skills and crush internship, placement, and graduate job interviews.
- 
-> **Who is this for?** Undergraduates in Electrical & Electronic Engineering (EEE), Electronic & Information Engineering (EIE), and Computer Science (CS) — from first year through final year. Every link is free unless explicitly marked **(paid)**.
+# The RTL Project
+The Ready-To-Learn (RTL) Project was started because the author stumbled across many amazing resources that he'd wish he encountered sooner. Everything you find here is 
+a curated collection of free, public resources to help Imperial EEE/EIE build practical technical skills and excel in internship, placement, and graduate job interviews.
+> **Note:** Many links were initially gathered using AI tools; the repo is continuously refined to remove redundancies and improve quality.
  
 ---
  
@@ -162,7 +161,6 @@ If you want a software engineering internship at a top company, you need to grin
 *   [CS61C: Great Ideas in Computer Architecture (UC Berkeley)](https://cs61c.org/) - C, RISC-V assembly, datapath/pipelining, memory hierarchies, and parallelism.
 *   [Crafting Interpreters](https://craftinginterpreters.com/) - Build a compiler and interpreter from scratch. Brilliant and free.
 *   [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - The definitive, incredibly readable guide to sockets, TCP/IP, and network systems in C.
-*   [Nand2Tetris](https://www.nand2tetris.org/) - Build a complete computer system from NAND gates to an operating system. Transformative course.
 *   [Computer Networking: A Top-Down Approach (Companion Site)](https://gaia.cs.umass.edu/kurose_ross/wireshark.php) - Wireshark labs from the Kurose & Ross textbook. Great for hands-on networking understanding.
 *   [Ben Eater (YouTube)](https://www.youtube.com/c/BenEater) - Build an 8-bit computer from scratch on breadboards. The best hardware-level computer architecture content on the internet.
 *   [Computer Systems: A Programmer's Perspective (CS:APP)](https://csapp.cs.cmu.edu/) - CMU's legendary systems textbook. Labs are freely available and are extremely valuable.
@@ -302,7 +300,6 @@ Modern engineering roles increasingly expect familiarity with containers, CI/CD 
  
 ## 🛠️ Build It: Project Setup & Inspiration
  
-*   [Nand2Tetris](https://www.nand2tetris.org/) - Build a complete computer from NAND gates to OS. Legendary course.
 *   [EEVblog: How To Set Up An Electronics Lab](https://www.youtube.com/watch?v=R_PbjmGvCAI) - Budget-conscious guide to home lab equipment.
 *   [Hackaday](https://hackaday.com/) - The ultimate blog for hardware hacking and engineering projects.
 *   [Windows Subsystem for Linux (WSL) Setup Guide](https://learn.microsoft.com/en-us/windows/wsl/install) - Run native Linux on Windows. Essential for FPGA and embedded toolchains.
@@ -328,7 +325,6 @@ Building skills is half the battle. You also need to know how to present yoursel
 *   [Imperial Careers Service](https://www.imperial.ac.uk/careers/) - Book CV reviews, mock interviews, and find exclusive Imperial-only job listings.
 *   [LinkedIn Learning (Free via Imperial)](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/office-365/features/linkedin-learning/) - Free access to thousands of professional courses through your Imperial account.
 *   [Overleaf CV Templates](https://www.overleaf.com/gallery/tagged/cv) - LaTeX CV templates that look clean and professional. Stand out from Word template CVs.
-*   [Cracking the Coding Interview (Book)](https://www.crackingthecodinginterview.com/) **(paid)** - The classic software interview prep book. Worth the investment if you're targeting FAANG.
 ---
  
 ## 🤝 How to Contribute
